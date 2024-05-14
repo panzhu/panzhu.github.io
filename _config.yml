@@ -13,9 +13,9 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: 吾心安静PAN
+#weibo_username: 吾心安静PAN
 zhihu_username: wu-xin-an-jing
-github_username: panzhuz
+github_username: panzhu
 #twitter_username: panzhu
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
