@@ -1,10 +1,10 @@
 # Site settings
-title: Pan Blog
-SEOTitle: Pan的博客 | Pan Blog
+title: SEADRAGON PAN Blog
+SEOTitle: SEADRAGON PAN的博客 | SEADRAGON PAN Blog
 header-img: img/home-bg.jpg
 email: pan@100e.net
-description: "这里是 @Pan 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "Pan, SeaDragon, Pan的博客, Pan Blog, 博客, 个人网站, 互联网, C#,Web, JavaScript, React, React Native, 前端, 设计"
+description: "这里是 @SEADRAGON 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
+keyword: "Pan, SeaDragon, SEADRAGON PAN的博客, Pan Blog, 博客, 个人网站, 互联网, C#,Web, JavaScript, React, React Native, 前端, 设计"
 url: "https://100e.net" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
+weibo_username: pan
+zhihu_username: pan
+github_username: pan
+twitter_username: pan
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -36,7 +36,7 @@ exclude:
   ]
 anchorjs: true # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
-#timezone: CN
+timezone: CN
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: pan
 
 # Netease settings
 netease_comment: false
